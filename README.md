@@ -1,4 +1,8 @@
 ### Hi there 👋
+<hr>
+<i>Random (probably not funny) joke!</i><br>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<hr>
 
 <!--
 **theSaintKappa/theSaintKappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
