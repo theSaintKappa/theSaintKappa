@@ -1,5 +1,8 @@
 # Greetings traveler! 🥶
 \
 <strong>Here is a random joke:</strong><br>\
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+![](https://readme-jokes.vercel.app/api)
+# 
+Add me on discord:\
+![](https://dcbadge.vercel.app/api/shield/315531146953752578?theme=discord-inverted)
 # 
