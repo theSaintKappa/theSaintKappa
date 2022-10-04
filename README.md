@@ -3,6 +3,6 @@
 <strong>Here is a random joke:</strong><br>\
 ![](https://readme-jokes.vercel.app/api)
 # 
-My discord in case you need :\
+My discord in case you need it:\
 ![](https://dcbadge.vercel.app/api/shield/315531146953752578?theme=discord-inverted)
 # 
