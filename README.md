@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=2250&size=36&pause=1000&color=FE194D&background=FFFFFF00&vCenter=true&repeat=false&width=435&height=40&lines=Why%2C+hello+there!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2250&weight=700&size=36&pause=1000&color=FE194D&background=FFFFFF00&vCenter=true&repeat=false&width=435&height=40&lines=Why%2C+hello+there!" />
   <img style="float: right;" src="https://dcbadge.vercel.app/api/shield/315531146953752578?theme=discord-inverted" />
 </h1>
 
