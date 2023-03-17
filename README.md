@@ -13,4 +13,4 @@
   <img height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=theSaintKappa&theme=cobalt&count_private=true" /><br><br>
 </div>
 
-<strong>Psst... you can reach me at contact@saintkappa.xyz</strong>
+<strong>Psst... you can reach me at hello@saintkappa.xyz</strong>
