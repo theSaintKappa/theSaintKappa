@@ -12,3 +12,5 @@
   <img height="175px" src="https://github-readme-stats.vercel.app/api?username=theSaintkappa&theme=radical&show_icons=true&count_private=true" />
   <img height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=theSaintKappa&theme=cobalt&count_private=true" /><br><br>
 </div>
+
+<strong>Psst... you can reach me at contact@saintkappa.xyz</strong>
