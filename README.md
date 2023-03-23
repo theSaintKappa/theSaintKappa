@@ -10,11 +10,13 @@
   <img src="https://skillicons.dev/icons?i=nodejs,svelte,nextjs,react,vite,vercel,heroku,express,graphql,electron,git,mongodb,redis,mysql,firebase,supabase,tailwind,threejs,gcp,aws,linux,maven,netlify,bash,cloudflare,docker,figma,idea,vscode,vscode" />
   <br><br>
   
-  <h3>📊 Some stats 📊</h2>
-  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theSaintKappa&theme=tokyonight&layout=compact&count_private=true" />
-  <img height="175px" src="https://github-readme-stats.vercel.app/api?username=theSaintkappa&theme=radical&show_icons=true&count_private=true" />
-  <img height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=theSaintKappa&theme=cobalt&count_private=true" />
-  <br><br>
+  <details>
+    <summary><h3>📊 Some stats 📊</h3></summary>
+    <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theSaintKappa&theme=tokyonight&layout=compact&count_private=true" />
+    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=theSaintkappa&theme=radical&show_icons=true&count_private=true" />
+    <img height="175px" src="https://github-readme-streak-stats.herokuapp.com/?user=theSaintKappa&theme=cobalt&count_private=true" />
+    <br><br>
+  </details>
   
   <h3>💥 Random joke 💥</h3>
   <img src="https://readme-jokes.vercel.app/api" />
