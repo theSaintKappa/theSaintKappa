@@ -7,7 +7,7 @@
   <h3>⚡ Languages I enjoy ⚡</h3>
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,java,py,cpp" />
   <h3>🔧 Tools I use 🔧</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,svelte,nextjs,react,vite,vercel,heroku,express,graphql,electron,git,mongodb,redis,mysql,firebase,supabase,tailwind,threejs,gcp,aws,linux,maven,netlify,bash,cloudflare,docker,figma,idea,vscode,vscode" />
+  <img src="https://skillicons.dev/icons?i=nodejs,svelte,react,vite,vercel,heroku,express,graphql,electron,git,mongodb,redis,mysql,firebase,supabase,tailwind,threejs,gcp,aws,linux,maven,netlify,bash,cloudflare,docker,figma,idea,vscode" />
   <br><br>
   
   <details>
