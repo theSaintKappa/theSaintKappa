@@ -9,7 +9,7 @@
   <h3>🔧 Tools 🔧</h3>
   <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,svelte,react,vite,vercel,heroku,express,graphql,electron,git,mongodb,redis,mysql,firebase,supabase" />
-    <img src="https://skillicons.dev/icons?i=tailwind,threejs,gcp,aws,linux,maven,netlify,bash,cloudflare,docker,figma,idea,vscode" />
+    <img src="https://skillicons.dev/icons?i=tailwind,threejs,gcp,aws,linux,maven,androidstudio,netlify,bash,cloudflare,docker,figma,idea,vscode" />
   </div>
   
   <h3>📊 Stats 📊</h3>
