@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3><a href="#">&#x200B;</a>⚡ Languages ⚡</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,java,py,cpp,cs" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,java,py,php,cpp,cs" />
 
   <h3><a href="#">&#x200B;</a>🔧 Tools 🔧</h3>
   <div align="center">
