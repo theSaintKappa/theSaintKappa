@@ -15,6 +15,13 @@
   </div>
 
   <details>
+    <summary><h3><a href="#">&#x200B;</a>💼 Work Expirience 💼</h3></summary>
+    <span>ING Poland &bull; Internship</span><br>
+    <span>Operational Applications Tribe (Java, React)</span><br>
+    <span>Nov 2023 &bull; 1 month</span>
+  </details>
+
+  <details>
     <summary><h3><a href="#">&#x200B;</a>📊 Stats 📊</h3></summary>
     <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theSaintKappa&theme=tokyonight&layout=compact&count_private=true" />
     <img height="175px" src="https://github-readme-stats.vercel.app/api?username=theSaintkappa&theme=tokyonight&show_icons=true&count_private=true" />
