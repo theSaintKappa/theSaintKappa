@@ -16,7 +16,7 @@
   <b><img src="https://github.com/theSaintKappa/theSaintKappa/assets/96151089/06f8927d-0bf8-4818-b97d-03224a5ff903" height="15"> ING Poland &bull; Internship</b><br>
   <span>Operational Applications Tribe (React, Java)</span><br>
   <span>Nov 2023 &bull; 1 month</span><br>
-  <img src="https://github.com/theSaintKappa/theSaintKappa/assets/96151089/1a038a3e-072f-4711-87b0-51ca08b008ff" width="300">
+  <img src="https://github.com/theSaintKappa/theSaintKappa/assets/96151089/cc49b43b-1926-420f-997e-d4928f9612f3" width="250">
 
   <details>
     <summary><h3><a href="#">&#x200B;</a>📊 Stats 📊</h3><sup>(expand)</sup></summary>
