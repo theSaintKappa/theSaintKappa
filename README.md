@@ -8,7 +8,7 @@
   <h2><a href="#">&#x200B;</a>✨ Languages & Tools ✨</h2>
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,java,py,php,cpp,cs" /><br><br>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=svelte,react,tailwind,figma,electron,threejs,nodejs,vite,mongodb,redis,mysql,firebase,supabase" />
+    <img src="https://skillicons.dev/icons?i=svelte,react,nodejs,vite,mongodb,redis,mysql,firebase,supabase,tailwind,figma,electron,threejs" />
     <img src="https://skillicons.dev/icons?i=gcp,aws,vercel,heroku,cloudflare,netlify,docker,git,bash,maven,androidstudio" />
   </div><br>
 
