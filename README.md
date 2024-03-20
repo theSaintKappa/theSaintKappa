@@ -13,10 +13,10 @@
   <h2><a href="#">&#x200B;</a>💼 Work Expirience 💼</h2>
   <b><img src="https://github.com/theSaintKappa/theSaintKappa/assets/96151089/06f8927d-0bf8-4818-b97d-03224a5ff903" height="15"> ING Poland &bull; Internship</b><br>
   <span>Operational Applications Tribe (React, Java)</span><br>
-  <span>Nov 2023 &bull; 1 month</span><br><br>
+  <span>Nov 2023 &bull; 1 month</span><br><br><br>
 
   <details>
-    <summary><h2><a href="#">&#x200B;</a>📊 Stats 📊</h2><sup>(expand)</sup></summary>
+    <summary><b>📊 Stats 📊</b><sup>(expand)</sup></summary>
     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theSaintKappa&theme=tokyonight&layout=compact&count_private=true" />
     <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=theSaintKappa&theme=tokyonight&count_private=true" />
   </details>
