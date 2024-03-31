@@ -6,9 +6,9 @@
 
 <div align="center">
   <h2><a href="#">&#x200B;</a>✨ Languages & Tools ✨</h2>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,java,py,php,cpp,cs" height="50px" /><br>
-  <img src="https://skillicons.dev/icons?i=svelte,react,nodejs,vite,mongodb,redis,mysql,firebase,supabase,tailwind,figma,electron,threejs" height="40px" />
-  <img src="https://skillicons.dev/icons?i=gcp,aws,vercel,heroku,cloudflare,netlify,docker,git,bash,maven,androidstudio" height="40px" /><br>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,java,kotlin,cpp,cs,py,php" height="50px" /><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,nodejs,mongodb,redis,mysql,firebase,supabase,tailwind,figma,electron,tauri,threejs" height="40px" />
+  <img src="https://skillicons.dev/icons?i=gcp,aws,vercel,heroku,cloudflare,netlify,docker,git,bash,maven,gradle,androidstudio" height="40px" /><br>
 
   <h2><a href="#">&#x200B;</a>💼 Work Expirience 💼</h2>
   <b><img src="https://github.com/theSaintKappa/theSaintKappa/assets/96151089/06f8927d-0bf8-4818-b97d-03224a5ff903" height="15"> ING Poland &bull; Internship</b><br>
